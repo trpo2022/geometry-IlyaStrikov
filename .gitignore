@@ -1,4 +1,4 @@
-*.exe
-*.dll
 *.o
-*.swp
+*.a
+*.d
+*.exe
