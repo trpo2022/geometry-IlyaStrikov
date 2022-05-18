@@ -12,6 +12,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
 #ifndef CTEST_H
 #define CTEST_H
 
@@ -586,3 +587,4 @@ __attribute__((no_sanitize_address)) int ctest_main(int argc, const char *argv[]
 #endif
 
 #endif
+
